@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshith985&label=Profile%20views&color=0e75b6&style=flat" alt="akshith985" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshith985" alt="akshith985" /></a> </p>
-
 - 🔭 I’m currently working on [Solana development](https://github.com/Akshith985/Anchor-Solana)
 
 - 🌱 I’m currently learning **Rust, LangChain and Godot**
 
-- 👨‍💻 All of my projects are available at [akshith.space](akshith.space)
+- 👨‍💻 All of my projects are available at [https://akshith.space](https://akshith.space)
 
 - 📝 I regularly write articles on [https://dev.to/akshith985](https://dev.to/akshith985)
 
@@ -43,4 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshith985&show_icons=true&locale=en&layout=compact" alt="akshith985" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshith985&show_icons=true&locale=en" alt="akshith985" /></p>
+
 
