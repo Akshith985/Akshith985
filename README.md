@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshith Anand</h1>
 <h3 align="center">A full stack developer and blockchain enthusiast</h3>
 
-- 🔭 I’m currently working on [Solana development](https://github.com/Akshith985/Anchor-Solana)
+- 🔭 I’m currently working on [AWS and Testing](https://github.com/Akshith985/AWS-Lambda-Web/)
 
 - 🌱 I’m currently learning **Rust, LangChain and Godot**
 
