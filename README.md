@@ -14,6 +14,9 @@
 - 📫 How to reach me **akshithclg@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, I love exploring art and cultures.**
+- ### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Akshith) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Akshith)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
