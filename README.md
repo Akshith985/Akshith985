@@ -5,7 +5,7 @@ DevOps Engineer and Full-Stack Architect
 ----------------------------------------
 
 * 🌍  I'm based in Chennai, Tamil Nadu
-* 🖥️  See my portfolio at [akshith,space](http://akshith.space)
+* 🖥️  See my portfolio at [akshith.space](http://akshith.space)
 * ✉️  You can contact me at [akshithclg@gmail.com](mailto:akshithclg@gmail.com)
 * 🚀  I'm currently working on [AWS Automation](http://github.com/Akshith985/Autonomous-Agent)
 * 🧠  I'm currently learning Anchor, Kubernetes and Testing
